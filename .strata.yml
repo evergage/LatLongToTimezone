@@ -13,4 +13,4 @@ production_branch:
 # unit_tests_mount_point: /tmp/project                  # (Optional) default shown
 # email_only_last_committer_on_dev_branch: false        # (Optional) default shown
 # publish_jar_image: dva/sfdc_centos7_java_rpmbuild     # (Optional) default shown. This image will be used to run publish jar command
-publish_jar_image: dva/sfdc_centos7_java_build_hypergage
+publish_jar_image: dva/sfdc_centos7_java8_build_hypergage
